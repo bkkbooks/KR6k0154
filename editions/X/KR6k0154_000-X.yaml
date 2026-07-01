@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0154/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分比丘尼鈔科
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X40/X40n0723.xml
+    old_id: X40n0723
+hash: sha256:aa49e1e70929e553b19f848c29c38bcdf734a6051faf240fa713d8f573f55236

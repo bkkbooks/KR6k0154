@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6k0154/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0154/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分比丘尼鈔科
+  identifiers:
+    krp: KR6k0154
+    cbeta: X40n0723
+    cbeta_old_id: X40n0723
+    authorityid: CA0002779
+    json_key: X0723
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X40/X40n0723.xml
+    old_id: X40n0723
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0154_000-X.yaml, hash: 'sha256:aa49e1e70929e553b19f848c29c38bcdf734a6051faf240fa713d8f573f55236'}
+  - {seq: 1, filename: KR6k0154_001-X.yaml, hash: 'sha256:3933412028198f3dfbb9098451987c8e0fd2003d672d5c9f1f1ff729758246f5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0154_000-X.markers.yaml, hash: 'sha256:6ffbd414f5dec2d2f5a4351d5a81171454e3d9f4749631747e320fcedb74eb2e'}
+  - {seq: 1, role: markers, filename: assets/KR6k0154_001-X.markers.yaml, hash: 'sha256:4db095a868c401370f3feb9292318464be601149ec33ca3658e4efd41324c2d2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0154_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9073
+  label: 釋四分律比丘尼鈔科文
+  type: juan
+  level: 1
+hash: sha256:62f626107146cd5f90bc3e2b3271567cdf0babd4986464cf79b58f91b685afee
